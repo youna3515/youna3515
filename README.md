@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1>Hi, I'm Yuna</h1>
-- 🔭 I’m currently working on ... <br>
-- 🌱 I’m currently learning ... <br>
+- 🔭 I’m currently working on EffL, POSTECH <br>
+- 🌱 I’m currently learning Efficient AI <br>
 - 👯 I’m looking to collaborate on ... <br>
 - 🤔 I’m looking for help with ... <br>
 - 💬 Ask me about ... <br>
