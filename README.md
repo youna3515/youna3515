@@ -1,9 +1,9 @@
 ### Hi there 👋  
 # Hi, I'm Yuna
 
-- 🔭 I’m currently working on **EffL, POSTECH**
-- 🌱 I’m currently learning **Efficient AI**
-- 🛝 My Research Interestes
+- 🔭 Recently I worked at **EffL, POSTECH**
+- 🌱 I’m currently learning Deep Reinforcement Learning(CS285)
+- 🛝 My Research Interestes is Deep Reinforcement Learning, Multimodal Learning
 
 ## My Experience
 
