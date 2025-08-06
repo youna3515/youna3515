@@ -8,8 +8,8 @@
 ## My Experience
 
 **Research Student**, [Efficient Learning Lab](https://effl.postech.ac.kr/) – POSTECH *(Jan 2025 – Current)*  
-• Compressing CoT Reasoning Chains for Improved Efficiency  
-• Tackling token waste due to Text Degeneration or missing EOS token  
+• Researched reinforcement learning-based methods to improve inference efficiency of small language models
+• Compressing chain-of-thought(CoT) reasoning sequences to reduce computational overhead  
 
 **Product Developer Intern**, AI Solution Planning2 – Naver Cloud *(July 2024 – Dec 2024)*  
 • Constructed chatbot dialogue for ‘CLOVA CareCall’ & prompt engineering guidelines  
