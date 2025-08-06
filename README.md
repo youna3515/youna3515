@@ -1,7 +1,8 @@
 ### Hi there 👋  
 # Hi, I'm Yuna
 
-- 🔭 Recently I worked at **EffL, POSTECH**
+- 🔭 Recently, I worked at **EffL, POSTECH** (Jan 2025 – Jun 2025)
+- ☁️ Before that, I worked in AI Solution Planning2, Naver Cloud(July 2024 – Dec 2024)
 - 🌱 I’m currently learning Deep Reinforcement Learning(CS285)
 - 🛝 My Research Interestes is Deep Reinforcement Learning, Multimodal Learning
 
